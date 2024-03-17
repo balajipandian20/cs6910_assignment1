@@ -1,7 +1,7 @@
 # CS6910 Assignment 01
 ----
 Instructions to train and evaluate the neural network models:
-
+Consider only two files EE22M008_Assignment_01_wandb.ipynb and EE22M008_Assignment_01.ipynb
 To train a neural network model for image classification on the Fashion-MNIST dataset, utilizing categorical cross-entropy loss, refer to the notebook titled EE22M008_Assignment_01_wandb.ipynb
 
 a. This notebook is utilized for visualizing images for each class and facilitating model training with various hyperparameters using sweep configuration through wandb.
